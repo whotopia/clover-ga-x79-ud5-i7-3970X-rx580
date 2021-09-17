@@ -1,6 +1,8 @@
 # clover-ga-x79-ud5-i7-3970X-rx580
 Hackintosh GA-X79-UD5 with F14e BIOS, tested to work Catalina.  Latest Clover 5139
 
+This repository is the contents of /EFI folder on EFI boot partition .
+
 Board: GA-X79-UD5 with BIOS version F14e
 
 CPU: i7-3970X Sandy Bridge-E
