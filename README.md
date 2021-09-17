@@ -2,9 +2,13 @@
 Hackintosh GA-X79-UD5 with F14e BIOS, tested to work Catalina.  Latest Clover 5139
 
 Board: GA-X79-UD5 with BIOS version F14e
+
 CPU: i7-3970X Sandy Bridge-E
+
 RAM: 64 GB 1333 MHz DDR3
+
 GPU: Radeon RX 580 8GB with 2 x DELL P2418D on DisplayPort and 1x DELL P2418D on HDMI
+
 SMBIOS: Using iMacPro1,1
 
 This is the result of quite a lot of work and upkeep.   
