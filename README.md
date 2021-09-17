@@ -1,5 +1,5 @@
 # clover-ga-x79-ud5-i7-3970X-rx580
-Hackintosh GA-X79-UD5 with F14e BIOS, tested to work Catalina.  Latest Clover 5139
+Hackintosh GA-X79-UD5 with F14e BIOS, tested to work Catalina.  Latest Clover 5139  
 
 This repository is the contents of /EFI folder on EFI boot partition .
 
@@ -28,3 +28,4 @@ Some of the gotchas to be careful of :
 
 If anyone has managed to scale up to OpenCore or Big Sur with this board, kindly let me know.
 
+If you're not a video game addict and just need a fantastic hackintosh, I've seen no reason to upgrade my system.
