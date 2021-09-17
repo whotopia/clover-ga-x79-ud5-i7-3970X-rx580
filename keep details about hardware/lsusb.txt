@@ -1,0 +1,21 @@
+Bus 002 Device 008: ID 05ac:8289 Apple, Inc. Bluetooth Host Controller
+Bus 002 Device 005: ID 0a5c:4500 Broadcom Corp. BCM2046B1 USB 2.0 Hub (part of BCM2046 Bluetooth)
+Bus 002 Device 004: ID 1a40:0101 Terminus Technology Inc. Hub
+Bus 002 Device 003: ID 0bda:0151 Realtek Semiconductor Corp. Mass Storage Device (Multicard Reader)
+Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 006 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 005 Device 005: ID 0581:011a Racal Data Group 
+Bus 005 Device 004: ID 0409:005a NEC Corp. HighSpeed Hub
+Bus 005 Device 003: ID 0409:005a NEC Corp. HighSpeed Hub
+Bus 005 Device 002: ID 0424:2744 Microchip Technology, Inc. (formerly SMSC) Hub
+Bus 005 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 006: ID 1532:0084 Razer USA, Ltd RZ01-0321 Gaming Mouse [DeathAdder V2]
+Bus 001 Device 005: ID 0718:070a Imation Corp. TF10
+Bus 001 Device 007: ID 24f0:0141 Metadot Das Keyboard
+Bus 001 Device 004: ID 2109:2812 VIA Labs, Inc. VL812 Hub
+Bus 001 Device 003: ID 046d:0892 Logitech, Inc. OrbiCam
+Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
